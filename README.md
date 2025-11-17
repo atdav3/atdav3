@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/atdav3/atdav3/main/img/header.gif" alt="banner" />
+  <img src="https://raw.githubusercontent.com/atdav3/atdav3/main/img/header.gif" alt="banner" width="100%" />
 </p>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nauthn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tuanat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davetranxx@gmail.com) 
