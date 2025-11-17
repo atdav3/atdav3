@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/atdav3/atdav3/main/img/header.gif" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/atdav3/atdav3/main/img/header.png" alt="banner" width="100%" />
 </p>
 
 
